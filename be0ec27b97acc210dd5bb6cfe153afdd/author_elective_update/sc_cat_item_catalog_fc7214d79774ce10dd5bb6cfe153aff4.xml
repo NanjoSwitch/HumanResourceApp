@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Copy of Employee Seperation">307214d79774ce10dd5bb6cfe153afee</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-12 14:55:38</sys_created_on>
+        <sys_id>fc7214d79774ce10dd5bb6cfe153aff4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Copy of Employee Seperation</sys_name>
+        <sys_package display_value="Human Resource" source="x_1124924_hr">be0ec27b97acc210dd5bb6cfe153afdd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">be0ec27b97acc210dd5bb6cfe153afdd</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_fc7214d79774ce10dd5bb6cfe153aff4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-12 14:55:38</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Human Resource">be0ec27b97acc210dd5bb6cfe153afdd</application>
+        <file_path/>
+        <instance_id>f2677184db583c10e03ad7c8f4961912</instance_id>
+        <instance_name>dev117318</instance_name>
+        <name>sc_cat_item_catalog_fc7214d79774ce10dd5bb6cfe153aff4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Copy of Employee Seperation">307214d79774ce10dd5bb6cfe153afee</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-12 14:55:38</sys_created_on><sys_id>fc7214d79774ce10dd5bb6cfe153aff4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Copy of Employee Seperation</sys_name><sys_package display_value="Human Resource" source="x_1124924_hr">be0ec27b97acc210dd5bb6cfe153afdd</sys_package><sys_policy/><sys_scope display_value="Human Resource">be0ec27b97acc210dd5bb6cfe153afdd</sys_scope><sys_update_name>sc_cat_item_catalog_fc7214d79774ce10dd5bb6cfe153aff4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-12 14:55:38</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>888904230</payload_hash>
+        <record_name>Service Catalog.Copy of Employee Seperation</record_name>
+        <reverted_from/>
+        <source>f97556f397ecc210dd5bb6cfe153afad</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-12 14:55:38</sys_created_on>
+        <sys_id>3072d8d79774ce10dd5bb6cfe153afad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e332972990000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-12 14:55:38</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>bc7214d7bd74ce100b22a046067b07f7</update_guid>
+        <update_guid_history>bc7214d7bd74ce100b22a046067b07f7:888904230</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Copy of Employee Seperation">4174d49b9774ce10dd5bb6cfe153afce</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-12 15:04:23</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>4d193991d1d649d38a0e43e69df42ac1</sys_id>
+        <sys_metadata>fc7214d79774ce10dd5bb6cfe153aff4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Copy of Employee Seperation</sys_name>
+        <sys_package display_value="Human Resource" source="x_1124924_hr">be0ec27b97acc210dd5bb6cfe153afdd</sys_package>
+        <sys_parent display_value="">307214d79774ce10dd5bb6cfe153afee</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">be0ec27b97acc210dd5bb6cfe153afdd</sys_scope>
+        <sys_scope_delete display_value="">041f511f469041289638fb1928c51ec1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_fc7214d79774ce10dd5bb6cfe153aff4</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_fc7214d79774ce10dd5bb6cfe153aff4">3072d8d79774ce10dd5bb6cfe153afad</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-12 15:04:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

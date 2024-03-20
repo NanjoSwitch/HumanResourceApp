@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 21:49:40</sys_created_on>
+        <sys_id>06ea135897f84210dd5bb6cfe153af75</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1124924_hr_hr_task.x_1124924_hr.hr_task_user</sys_name>
+        <sys_package display_value="Human Resource" source="x_1124924_hr">be0ec27b97acc210dd5bb6cfe153afdd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">be0ec27b97acc210dd5bb6cfe153afdd</sys_scope>
+        <sys_security_acl display_value="x_1124924_hr_hr_task">46ea135897f84210dd5bb6cfe153af72</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_06ea135897f84210dd5bb6cfe153af75</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 21:49:40</sys_updated_on>
+        <sys_user_role display_value="x_1124924_hr.hr_task_user" name="x_1124924_hr.hr_task_user">b5ea131897f84210dd5bb6cfe153af3f</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Human Resource">be0ec27b97acc210dd5bb6cfe153afdd</application>
+        <file_path/>
+        <instance_id>f2677184db583c10e03ad7c8f4961912</instance_id>
+        <instance_name>dev117318</instance_name>
+        <name>sys_security_acl_role_06ea135897f84210dd5bb6cfe153af75</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-03 21:49:40</sys_created_on><sys_id>06ea135897f84210dd5bb6cfe153af75</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1124924_hr_hr_task.x_1124924_hr.hr_task_user</sys_name><sys_package display_value="Human Resource" source="x_1124924_hr">be0ec27b97acc210dd5bb6cfe153afdd</sys_package><sys_policy/><sys_scope display_value="Human Resource">be0ec27b97acc210dd5bb6cfe153afdd</sys_scope><sys_security_acl display_value="x_1124924_hr_hr_task">46ea135897f84210dd5bb6cfe153af72</sys_security_acl><sys_update_name>sys_security_acl_role_06ea135897f84210dd5bb6cfe153af75</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-03 21:49:40</sys_updated_on><sys_user_role display_value="x_1124924_hr.hr_task_user" name="x_1124924_hr.hr_task_user">b5ea131897f84210dd5bb6cfe153af3f</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-2115143455</payload_hash>
+        <record_name>x_1124924_hr_hr_task.x_1124924_hr.hr_task_user</record_name>
+        <reverted_from/>
+        <source>f97556f397ecc210dd5bb6cfe153afad</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 21:49:40</sys_created_on>
+        <sys_id>4eea135897f84210dd5bb6cfe153af77</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e064b47e30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 21:49:40</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>42ea1358aef842100a098a7fedaa7677</update_guid>
+        <update_guid_history>42ea1358aef842100a098a7fedaa7677:-2115143455</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1124924_hr_hr_task.x_1124924_hr.hr_task_user">6138e05197c14610dd5bb6cfe153af9c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-18 21:38:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>2238b74d278148dbba599e22db059889</sys_id>
+        <sys_metadata>06ea135897f84210dd5bb6cfe153af75</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1124924_hr_hr_task.x_1124924_hr.hr_task_user</sys_name>
+        <sys_package display_value="Human Resource" source="x_1124924_hr">be0ec27b97acc210dd5bb6cfe153afdd</sys_package>
+        <sys_parent display_value="x_1124924_hr_hr_task">46ea135897f84210dd5bb6cfe153af72</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">be0ec27b97acc210dd5bb6cfe153afdd</sys_scope>
+        <sys_scope_delete display_value="">041f511f469041289638fb1928c51ec1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_06ea135897f84210dd5bb6cfe153af75</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_06ea135897f84210dd5bb6cfe153af75">4eea135897f84210dd5bb6cfe153af77</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-18 21:38:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
