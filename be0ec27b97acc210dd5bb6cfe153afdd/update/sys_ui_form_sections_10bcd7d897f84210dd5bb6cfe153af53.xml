@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="10bcd7d897f84210dd5bb6cfe153af53" sys_domain="global" table="x_1124924_hr_hr_task" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-03 21:57:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d4bcd7d897f84210dd5bb6cfe153af56</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1124924_hr_hr_task" name="x_1124924_hr_hr_task" sys_domain="global" view="Default view">10bcd7d897f84210dd5bb6cfe153af53</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1124924_hr_hr_task" sys_domain="global" view="Default view">5fcbdf5897f84210dd5bb6cfe153aff3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-03 21:57:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-03 21:57:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>14bcd7d897f84210dd5bb6cfe153af57</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1124924_hr_hr_task" name="x_1124924_hr_hr_task" sys_domain="global" view="Default view">10bcd7d897f84210dd5bb6cfe153af53</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_1124924_hr_hr_task" sys_domain="global" view="Default view">90bcd7d897f84210dd5bb6cfe153af51</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-03 21:57:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-03 21:57:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1cbcd7d897f84210dd5bb6cfe153af73</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1124924_hr_hr_task" name="x_1124924_hr_hr_task" sys_domain="global" view="Default view">10bcd7d897f84210dd5bb6cfe153af53</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_1124924_hr_hr_task" sys_domain="global" view="Default view">dcbcd7d897f84210dd5bb6cfe153af51</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-03 21:57:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-08 01:26:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48e2307597f00a10dd5bb6cfe153af71</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1124924_hr_hr_task" name="x_1124924_hr_hr_task" sys_domain="global" view="Default view">10bcd7d897f84210dd5bb6cfe153af53</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1124924_hr_hr_task" sys_domain="global" view="Default view">48e2307597f00a10dd5bb6cfe153af6d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-08 01:26:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1124924_hr_hr_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-03 21:57:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>10bcd7d897f84210dd5bb6cfe153af53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1124924_hr_hr_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Human Resource" source="x_1124924_hr">be0ec27b97acc210dd5bb6cfe153afdd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Human Resource">be0ec27b97acc210dd5bb6cfe153afdd</sys_scope>
+            <sys_update_name>sys_ui_form_sections_10bcd7d897f84210dd5bb6cfe153af53</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-03 21:57:28</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

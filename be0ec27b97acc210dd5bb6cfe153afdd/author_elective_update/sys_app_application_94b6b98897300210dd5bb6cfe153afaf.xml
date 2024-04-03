@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Human Resource</name>
+        <order>100</order>
+        <roles>x_1124924_hr.hr_admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-02 19:53:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>94b6b98897300210dd5bb6cfe153afaf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Human Resource</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Human Resource" source="x_1124924_hr">be0ec27b97acc210dd5bb6cfe153afdd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">be0ec27b97acc210dd5bb6cfe153afdd</sys_scope>
+        <sys_update_name>sys_app_application_94b6b98897300210dd5bb6cfe153afaf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-02 19:53:20</sys_updated_on>
+        <title>Human Resource</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Human Resource">be0ec27b97acc210dd5bb6cfe153afdd</application>
+        <file_path/>
+        <instance_id>f2677184db583c10e03ad7c8f4961912</instance_id>
+        <instance_name>dev117318</instance_name>
+        <name>sys_app_application_94b6b98897300210dd5bb6cfe153afaf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>Human Resource</name><order>100</order><roles>x_1124924_hr.hr_admin</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-02 19:53:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>94b6b98897300210dd5bb6cfe153afaf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Human Resource</sys_name><sys_overrides/><sys_package display_value="Human Resource" source="x_1124924_hr">be0ec27b97acc210dd5bb6cfe153afdd</sys_package><sys_policy/><sys_scope display_value="Human Resource">be0ec27b97acc210dd5bb6cfe153afdd</sys_scope><sys_update_name>sys_app_application_94b6b98897300210dd5bb6cfe153afaf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-02 19:53:20</sys_updated_on><title>Human Resource</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>361594429</payload_hash>
+        <record_name>Human Resource</record_name>
+        <reverted_from/>
+        <source>f97556f397ecc210dd5bb6cfe153afad</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-02 19:53:20</sys_created_on>
+        <sys_id>9cb6b98897300210dd5bb6cfe153afb2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e00ba6b490000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-02 19:53:20</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>50b6b988993002105c3190d0fc8941b2</update_guid>
+        <update_guid_history>50b6b988993002105c3190d0fc8941b2:361594429</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Human Resource">8bb9a25c97f44210dd5bb6cfe153af29</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 18:14:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>0369f4ae4b464a0e81e17a91355c45a4</sys_id>
+        <sys_metadata>94b6b98897300210dd5bb6cfe153afaf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Human Resource</sys_name>
+        <sys_package display_value="Human Resource" source="x_1124924_hr">be0ec27b97acc210dd5bb6cfe153afdd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">be0ec27b97acc210dd5bb6cfe153afdd</sys_scope>
+        <sys_scope_delete display_value="">041f511f469041289638fb1928c51ec1</sys_scope_delete>
+        <sys_update_name>sys_app_application_94b6b98897300210dd5bb6cfe153afaf</sys_update_name>
+        <sys_update_version display_value="sys_app_application_94b6b98897300210dd5bb6cfe153afaf">9cb6b98897300210dd5bb6cfe153afb2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 18:14:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

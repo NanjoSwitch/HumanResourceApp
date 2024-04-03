@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>HR Task</name>
+        <order>100</order>
+        <roles>x_1124924_hr.hr_task_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 21:49:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7dea135897f84210dd5bb6cfe153af11</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR Task</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Human Resource" source="x_1124924_hr">be0ec27b97acc210dd5bb6cfe153afdd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">be0ec27b97acc210dd5bb6cfe153afdd</sys_scope>
+        <sys_update_name>sys_app_application_7dea135897f84210dd5bb6cfe153af11</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 21:49:39</sys_updated_on>
+        <title>HR Task</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Human Resource">be0ec27b97acc210dd5bb6cfe153afdd</application>
+        <file_path/>
+        <instance_id>f2677184db583c10e03ad7c8f4961912</instance_id>
+        <instance_name>dev117318</instance_name>
+        <name>sys_app_application_7dea135897f84210dd5bb6cfe153af11</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>HR Task</name><order>100</order><roles>x_1124924_hr.hr_task_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-03 21:49:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7dea135897f84210dd5bb6cfe153af11</sys_id><sys_mod_count>0</sys_mod_count><sys_name>HR Task</sys_name><sys_overrides/><sys_package display_value="Human Resource" source="x_1124924_hr">be0ec27b97acc210dd5bb6cfe153afdd</sys_package><sys_policy/><sys_scope display_value="Human Resource">be0ec27b97acc210dd5bb6cfe153afdd</sys_scope><sys_update_name>sys_app_application_7dea135897f84210dd5bb6cfe153af11</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-03 21:49:39</sys_updated_on><title>HR Task</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-987896909</payload_hash>
+        <record_name>HR Task</record_name>
+        <reverted_from/>
+        <source>f97556f397ecc210dd5bb6cfe153afad</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 21:49:39</sys_created_on>
+        <sys_id>71ea135897f84210dd5bb6cfe153af15</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e064b449a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 21:49:39</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>35ea135882f8421023219fc4b1b0c014</update_guid>
+        <update_guid_history>35ea135882f8421023219fc4b1b0c014:-987896909</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="HR Task">2ab0af9c97f84210dd5bb6cfe153af5c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 22:15:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>066665562b9947c387da067d4f3c09e1</sys_id>
+        <sys_metadata>7dea135897f84210dd5bb6cfe153af11</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR Task</sys_name>
+        <sys_package display_value="Human Resource" source="x_1124924_hr">be0ec27b97acc210dd5bb6cfe153afdd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">be0ec27b97acc210dd5bb6cfe153afdd</sys_scope>
+        <sys_scope_delete display_value="">041f511f469041289638fb1928c51ec1</sys_scope_delete>
+        <sys_update_name>sys_app_application_7dea135897f84210dd5bb6cfe153af11</sys_update_name>
+        <sys_update_version display_value="sys_app_application_7dea135897f84210dd5bb6cfe153af11">71ea135897f84210dd5bb6cfe153af15</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 22:15:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
