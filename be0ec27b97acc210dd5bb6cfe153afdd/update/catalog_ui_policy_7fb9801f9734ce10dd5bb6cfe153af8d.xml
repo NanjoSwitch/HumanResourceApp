@@ -4,7 +4,7 @@
         <applies_catalog>true</applies_catalog>
         <applies_req_item>false</applies_req_item>
         <applies_sc_task>false</applies_sc_task>
-        <applies_target_record>false</applies_target_record>
+        <applies_target_record>true</applies_target_record>
         <applies_to>item</applies_to>
         <catalog_conditions>IO:4d96bbfa97fc4e10dd5bb6cfe153af94INTermination,Resignation^EQ</catalog_conditions>
         <catalog_item display_value="Employee Seperation">5aa4b37a97fc4e10dd5bb6cfe153af64</catalog_item>
@@ -34,7 +34,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>7fb9801f9734ce10dd5bb6cfe153af8d</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Separation Date – Date variable. Visible and Mandatory only if Separation type is Resignation or Termination</sys_name>
         <sys_overrides/>
         <sys_package display_value="Human Resource" source="x_1124924_hr">be0ec27b97acc210dd5bb6cfe153afdd</sys_package>
@@ -42,7 +42,7 @@
         <sys_scope display_value="Human Resource">be0ec27b97acc210dd5bb6cfe153afdd</sys_scope>
         <sys_update_name>catalog_ui_policy_7fb9801f9734ce10dd5bb6cfe153af8d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-13 18:02:37</sys_updated_on>
+        <sys_updated_on>2024-05-02 14:48:09</sys_updated_on>
         <table/>
         <ui_type>0</ui_type>
         <va_supported>true</va_supported>

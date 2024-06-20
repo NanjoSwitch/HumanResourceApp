@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_1124924_hr.Audience for app human-resource</api_name>
+        <description/>
+        <name>Audience for app human-resource</name>
+        <role_names/>
+        <roles>d0b6718897300210dd5bb6cfe153af76,a0df3bcd97cd0610dd5bb6cfe153af96,b5ea131897f84210dd5bb6cfe153af3f</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-03 17:29:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>049882de97914a10dd5bb6cfe153af24</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app human-resource</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Human Resource" source="x_1124924_hr">be0ec27b97acc210dd5bb6cfe153afdd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">be0ec27b97acc210dd5bb6cfe153afdd</sys_scope>
+        <sys_update_name>sys_ux_applicability_049882de97914a10dd5bb6cfe153af24</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-03 17:29:09</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>

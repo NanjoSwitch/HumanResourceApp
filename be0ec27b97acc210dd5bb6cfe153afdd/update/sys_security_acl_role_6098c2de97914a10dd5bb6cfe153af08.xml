@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-03 17:29:11</sys_created_on>
+        <sys_id>6098c2de97914a10dd5bb6cfe153af08</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.1124924.human-resource.*.x_1124924_hr.hr_task_user</sys_name>
+        <sys_package display_value="Human Resource" source="x_1124924_hr">be0ec27b97acc210dd5bb6cfe153afdd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">be0ec27b97acc210dd5bb6cfe153afdd</sys_scope>
+        <sys_security_acl display_value="x.1124924.human-resource.*">c38842de9f914a1097f5b776b1e9d925</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_6098c2de97914a10dd5bb6cfe153af08</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-03 17:29:11</sys_updated_on>
+        <sys_user_role display_value="x_1124924_hr.hr_task_user" name="x_1124924_hr.hr_task_user">b5ea131897f84210dd5bb6cfe153af3f</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
